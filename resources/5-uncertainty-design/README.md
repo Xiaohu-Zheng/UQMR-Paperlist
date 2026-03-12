@@ -70,33 +70,33 @@ Reliability optimization, reliability-based design optimization (RBDO)
 
 ### Optimization Frameworks
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| pyomo | Python | Optimization modeling | [GitHub](https://github.com/Pyomo/pyomo) |
-| scipy.optimize | Python | Optimization algorithms | [SciPy](https://docs.scipy.org/doc/scipy/reference/optimize.html) |
-| NLopt | C/Python | Nonlinear optimization | [GitHub](https://github.com/stevengj/nlopt) |
-| Dakota | C++ | Optimization + UQ toolkit | [GitHub](https://github.com/sandialabs/dakota) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| Pyomo | Python | Optimization modeling | https://www.pyomo.org/ |
+| SciPy Optimize | Python | Optimization algorithms | https://docs.scipy.org/doc/scipy/reference/optimize.html |
+| NLopt | C/Python | Nonlinear optimization | https://nlopt.readthedocs.io/ |
+| Dakota | C++ | Optimization + UQ toolkit | https://dakota.sandia.gov/ |
 
 ### Reliability-Based Design Optimization
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| OpenSees | C++ | Reliability analysis + RBDO | [GitHub](https://github.com/OpenSees/OpenSees) |
-| UQMRLib | Python | AI-enhanced reliability optimization | [GitHub](https://github.com/Xiaohu-Zheng/UQMRLib) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| OpenSees | C++ | Reliability analysis + RBDO | https://opensees.berkeley.edu/ |
+| UQMRLib | Python | AI-enhanced reliability optimization | https://github.com/Xiaohu-Zheng/UQMRLib |
 
 ### Generative Models
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| GPyTorch | Python | Gaussian processes | [GitHub](https://github.com/cornellius-gp/gpytorch) |
-| PyTorch Lightning | Python | Deep learning framework | [GitHub](https://github.com/Lightning-AI/lightning) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| GPyTorch | Python | Gaussian processes | https://gpytorch.ai/ |
+| PyTorch Lightning | Python | Deep learning framework | https://lightning.ai/ |
 
 ---
 
 ## 📊 Related Datasets
 
-| Dataset | Description | Link |
-|---------|-------------|------|
+| Dataset | Description | Official Link |
+|---------|-------------|---------------|
 | Design optimization benchmarks | Standard RBDO test cases | - |
 | Topology optimization benchmarks | Standard topology test cases | - |
 
@@ -104,9 +104,9 @@ Reliability optimization, reliability-based design optimization (RBDO)
 
 ## 🏷️ Author's Project
 
-| Project | Description | Link |
-|---------|-------------|------|
-| missile-design-optimization | Missile design optimization | [GitHub](https://github.com/Xiaohu-Zheng/missile-design-optimization) |
+| Project | Description | Official Link |
+|---------|-------------|---------------|
+| missile-design-optimization | Missile design optimization | https://github.com/Xiaohu-Zheng/missile-design-optimization |
 
 ---
 

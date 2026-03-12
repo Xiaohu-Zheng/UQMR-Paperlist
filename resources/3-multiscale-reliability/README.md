@@ -84,30 +84,30 @@ Remaining useful life prediction, degradation modeling, reliability prediction
 
 ### Anomaly Detection
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| PyOD | Python | Python outlier detection | [GitHub](https://github.com/yzhao062/pyod) |
-| Alibi Detect | Python | Anomaly detection | [GitHub](https://github.com/SeldonIO/alibi-detect) |
-| TimeSeriesAD | Python | Time series anomaly detection | [GitHub](https://github.com/NetManAIOps) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| PyOD | Python | Python outlier detection | https://pyod.readthedocs.io/ |
+| Alibi Detect | Python | Anomaly detection | https://docs.seldon.io/projects/alibi-detect/ |
+| TimeSeriesAD | Python | Time series anomaly detection | https://github.com/NetManAIOps |
 
 ### Reliability Analysis
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| OpenSees | C++ | Earthquake engineering + reliability | [GitHub](https://github.com/OpenSees/OpenSees) |
-| FERUM | MATLAB | Finite Element Reliability | [GitHub](https://github.com/ferum-software/FERUM) |
-| UQMRLib | Python | AI-enhanced UQ & Multiscale Reliability | [GitHub](https://github.com/Xiaohu-Zheng/UQMRLib) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| OpenSees | C++ | Earthquake engineering + reliability | https://opensees.berkeley.edu/ |
+| FERUM | MATLAB | Finite Element Reliability | https://ferum.sourceforge.net/ |
+| UQMRLib | Python | AI-enhanced UQ & Multiscale Reliability | https://github.com/Xiaohu-Zheng/UQMRLib |
 
 ---
 
 ## 📊 Related Datasets
 
-| Dataset | Description | Link |
-|---------|-------------|------|
-| NASA Bearing Dataset | Bearing degradation data | [NASA](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) |
-| PHM Challenge | Prognostics and health management | [PHM Society](https://phmsociety.org/) |
-| C-MAPSS | Turbofan engine degradation | [NASA](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) |
-| FEMTO Bearing Dataset | Bearing accelerated life tests | [FEMTO](https://www.femto-st.fr/) |
+| Dataset | Description | Official Link |
+|---------|-------------|---------------|
+| NASA Bearing Dataset | Bearing degradation data | https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/ |
+| PHM Challenge | Prognostics and health management | https://phmsociety.org/ |
+| C-MAPSS | Turbofan engine degradation | https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/ |
+| FEMTO Bearing Dataset | Bearing accelerated life tests | https://www.femto-st.fr/ |
 
 ---
 

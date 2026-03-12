@@ -64,39 +64,39 @@ Autocorrelation analysis, cross-correlation analysis, time series correlation mo
 
 ### Data Processing
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| pandas | Python | Data manipulation and analysis | [GitHub](https://github.com/pandas-dev/pandas) |
-| numpy | Python | Numerical computing | [GitHub](https://github.com/numpy/numpy) |
-| scipy | Python | Scientific computing | [GitHub](https://github.com/scipy/scipy) |
-| scikit-learn | Python | Machine learning preprocessing | [GitHub](https://github.com/scikit-learn/scikit-learn) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| pandas | Python | Data manipulation and analysis | https://pandas.pydata.org/ |
+| numpy | Python | Numerical computing | https://numpy.org/ |
+| scipy | Python | Scientific computing | https://scipy.org/ |
+| scikit-learn | Python | Machine learning preprocessing | https://scikit-learn.org/ |
 
 ### Data Visualization
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| matplotlib | Python | Visualization | [GitHub](https://github.com/matplotlib/matplotlib) |
-| seaborn | Python | Statistical visualization | [GitHub](https://github.com/mwaskom/seaborn) |
-| plotly | Python | Interactive visualization | [GitHub](https://github.com/plotly/plotly.py) |
-| bokeh | Python | Interactive visualization | [GitHub](https://github.com/bokeh/bokeh) |
-| altair | Python | Declarative visualization | [GitHub](https://github.com/altair-viz/altair) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| matplotlib | Python | Visualization | https://matplotlib.org/ |
+| seaborn | Python | Statistical visualization | https://seaborn.pydata.org/ |
+| plotly | Python | Interactive visualization | https://plotly.com/python/ |
+| bokeh | Python | Interactive visualization | https://bokeh.org/ |
+| altair | Python | Declarative visualization | https://altair-viz.github.io/ |
 
 ### Correlation Analysis
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| statsmodels | Python | Statistical analysis | [GitHub](https://github.com/statsmodels/statsmodels) |
-| scipy.stats | Python | Statistical functions | [SciPy](https://docs.scipy.org/doc/scipy/reference/stats.html) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| statsmodels | Python | Statistical analysis | https://www.statsmodels.org/ |
+| scipy.stats | Python | Statistical functions | https://docs.scipy.org/doc/scipy/reference/stats.html |
 
 ---
 
 ## 📊 Related Datasets
 
-| Dataset | Description | Link |
-|---------|-------------|------|
-| Standard UQ benchmarks | Common test functions for UQ | [UQ World](https://www.uq-world.org/) |
-| UCI ML Repository | Standard ML datasets | [UCI](https://archive.ics.uci.edu/ml) |
-| Kaggle Datasets | Diverse datasets | [Kaggle](https://www.kaggle.com/datasets) |
+| Dataset | Description | Official Link |
+|---------|-------------|---------------|
+| Standard UQ benchmarks | Common test functions for UQ | https://www.uq-world.org/ |
+| UCI ML Repository | Standard ML datasets | https://archive.ics.uci.edu/ml |
+| Kaggle Datasets | Diverse datasets | https://www.kaggle.com/datasets |
 
 ---
 

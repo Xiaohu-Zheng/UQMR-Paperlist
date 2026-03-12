@@ -78,56 +78,41 @@ Physics-informed neural networks, deep learning surrogate models, hybrid modelin
 | Physics-Informed Deep Learning for Computational Fluid Dynamics | Cai, S. et al. | 2021 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2021.110698) | - |
 | Deep Learning for Partial Differential Equations | Khoo, Y. et al. | 2021 | SIAM Review | [DOI](https://doi.org/10.1137/20M1356443) | - |
 
-### Recent Papers from Top Venues (2023-2024)
-
-| Full Title | Authors | Year | Venue | Paper Link | Code |
-|------------|---------|------|-------|------------|------|
-| Physics-Informed Neural Networks for Engineering Applications | Wang, S. et al. | 2024 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2024.116890) | - |
-| Deep Learning for Time Series Forecasting: Advances and Challenges | Zhang, Y. et al. | 2023 | TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2023.1234567) | - |
-| Ensemble Learning for Uncertainty Quantification | Chen, L. et al. | 2024 | ICML | [arXiv](https://arxiv.org/abs/2403.12345) | - |
-| Transformer-Based Time Series Forecasting | Liu, H. et al. | 2023 | NeurIPS | [arXiv](https://arxiv.org/abs/2306.12345) | [GitHub](https://github.com/example/ts-transformer) |
-| Physics-Informed Machine Learning for Engineering | Xu, M. et al. | 2024 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2024.112345) | - |
-| Deep Learning Surrogate Models for Computational Mechanics | Zhao, W. et al. | 2023 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2023.116789) | - |
-| Uncertainty Quantification in Physics-Informed Neural Networks | Kim, S. et al. | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2402.12345) | - |
-| Ensemble Methods for Deep Learning | Park, J. et al. | 2023 | AAAI | [arXiv](https://arxiv.org/abs/2301.12345) | - |
-| Time Series Forecasting with Deep Learning | Wang, Q. et al. | 2024 | IEEE TKDE | [DOI](https://doi.org/10.1109/TKDE.2024.1234567) | - |
-| Physics-Informed Deep Learning for Uncertainty Quantification | Zhang, R. et al. | 2023 | RESS | [DOI](https://doi.org/10.1016/j.ress.2023.108912) | - |
-
 ---
 
 ## 🛠️ Related Tools
 
 ### Machine Learning Frameworks
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| scikit-learn | Python | Classical ML algorithms | [GitHub](https://github.com/scikit-learn/scikit-learn) |
-| PyTorch | Python | Deep learning framework | [GitHub](https://github.com/pytorch/pytorch) |
-| TensorFlow | Python | Deep learning framework | [GitHub](https://github.com/tensorflow/tensorflow) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| scikit-learn | Python | Classical ML algorithms | https://scikit-learn.org/ |
+| PyTorch | Python | Deep learning framework | https://pytorch.org/ |
+| TensorFlow | Python | Deep learning framework | https://www.tensorflow.org/ |
 
 ### Surrogate Models
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| SMT | Python | Surrogate Modeling Toolbox | [GitHub](https://github.com/SMTorg/smt) |
-| DeepXDE | Python | Deep learning for differential equations | [GitHub](https://github.com/lululxvi/deepxde) |
-| Deep-aPCE | Python | Adaptive PCE with neural network | [GitHub](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| SMT | Python | Surrogate Modeling Toolbox | https://smt.readthedocs.io/ |
+| DeepXDE | Python | Deep learning for differential equations | https://deepxde.readthedocs.io/ |
+| Deep-aPCE | Python | Adaptive PCE with neural network | https://github.com/Xiaohu-Zheng/Deep-aPCE |
 
 ### Time Series Prediction
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| statsmodels | Python | Statistical modeling | [GitHub](https://github.com/statsmodels/statsmodels) |
-| prophet | Python | Time series forecasting | [GitHub](https://github.com/facebook/prophet) |
-| NeuralForecast | Python | Neural forecasting models | [GitHub](https://github.com/Nixtla/neuralforecast) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| statsmodels | Python | Statistical modeling | https://www.statsmodels.org/ |
+| prophet | Python | Time series forecasting | https://facebook.github.io/prophet/ |
+| NeuralForecast | Python | Neural forecasting models | https://nixtla.github.io/neuralforecast/ |
 
 ---
 
 ## 📊 Related Datasets
 
-| Dataset | Description | Link |
-|---------|-------------|------|
-| Time series benchmarks | Standard forecasting benchmarks | [Monash Time Series Forecasting Archive](https://forecastingdata.org/) |
+| Dataset | Description | Official Link |
+|---------|-------------|---------------|
+| Monash Time Series Archive | Standard forecasting benchmarks | https://forecastingdata.org/ |
 
 ---
 

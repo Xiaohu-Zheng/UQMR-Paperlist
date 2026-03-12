@@ -81,67 +81,52 @@ Polynomial chaos expansion (PCE), sparse PCE, adaptive PCE
 | Uncertainty Fusion for Robust Deep Learning | Chen, X. et al. | 2023 | TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2023.3245678) | - |
 | Bayesian Fusion of Multiple Sources of Uncertainty | Li, Y. et al. | 2024 | UAI | [arXiv](https://arxiv.org/abs/2402.12345) | - |
 
-### Recent Papers from Top Venues (2023-2024)
-
-| Full Title | Authors | Year | Venue | Paper Link | Code |
-|------------|---------|------|-------|------------|------|
-| Uncertainty Quantification in Deep Learning: A Review | Smith, J. et al. | 2023 | TPAMI | [DOI](https://doi.org/10.1109/TPAMI.2023.1234567) | - |
-| Bayesian Neural Networks for Uncertainty Quantification | Johnson, M. et al. | 2024 | ICML | [arXiv](https://arxiv.org/abs/2401.12345) | [GitHub](https://github.com/example/bnn-uq) |
-| Deep Ensemble Methods for Uncertainty Estimation | Chen, L. et al. | 2023 | NeurIPS | [arXiv](https://arxiv.org/abs/2306.12345) | - |
-| Uncertainty Calibration in Medical Imaging | Wang, Q. et al. | 2024 | Nature Machine Intelligence | [DOI](https://doi.org/10.1038/s42256-024-00123-4) | - |
-| Physics-Informed Uncertainty Quantification | Zhang, R. et al. | 2023 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2023.116789) | - |
-| Polynomial Chaos for High-Dimensional Uncertainty Quantification | Liu, H. et al. | 2024 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2024.112345) | - |
-| Reliability-Based Uncertainty Quantification | Zhao, W. et al. | 2023 | RESS | [DOI](https://doi.org/10.1016/j.ress.2023.108912) | - |
-| Deep Learning for Uncertainty Quantification in Engineering | Xu, M. et al. | 2024 | MSSP | [DOI](https://doi.org/10.1016/j.ymssp.2024.109876) | - |
-| Uncertainty Quantification in Computer Vision | Kim, S. et al. | 2023 | CVPR | [arXiv](https://arxiv.org/abs/2303.12345) | [GitHub](https://github.com/example/cv-uq) |
-| Bayesian Optimization with Uncertainty Quantification | Park, J. et al. | 2024 | ICLR | [arXiv](https://arxiv.org/abs/2403.12345) | - |
-
 ---
 
 ## 🛠️ Related Tools
 
 ### Uncertainty Quantification
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| UQpy | Python | Comprehensive UQ library | [GitHub](https://github.com/SURGroup/UQpy) |
-| OpenTURNS | Python/C++ | Open-source UQ platform | [GitHub](https://github.com/openturns/openturns) |
-| ChaosPy | Python | Polynomial chaos library | [GitHub](https://github.com/jonathf/chaospy) |
-| UQLab | MATLAB | MATLAB UQ framework | [Website](https://www.uqlab.com/) |
-| Dakota | C++ | Sandia's UQ toolkit | [GitHub](https://github.com/sandialabs/dakota) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| UQpy | Python | Comprehensive UQ library | https://uqpyproject.readthedocs.io/ |
+| OpenTURNS | Python/C++ | Open-source UQ platform | https://openturns.org/ |
+| ChaosPy | Python | Polynomial chaos library | https://chaospy.readthedocs.io/ |
+| UQLab | MATLAB | MATLAB UQ framework | https://www.uqlab.com/ |
+| Dakota | C++ | Sandia's UQ toolkit | https://dakota.sandia.gov/ |
 
 ### Deep Learning Uncertainty
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| Uncertainty Toolbox | Python | Uncertainty metrics and viz | [GitHub](https://github.com/uncertainty-toolbox/uncertainty-toolbox) |
-| Bayesian Torch | Python | Bayesian neural networks | [GitHub](https://github.com/IntelLabs/bayesian-torch) |
-| Blitz | Python | Bayesian layers in PyTorch | [GitHub](https://github.com/piEsposito/blitz-bayesian-deep-learning) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| Uncertainty Toolbox | Python | Uncertainty metrics and viz | https://uncertainty-toolbox.readthedocs.io/ |
+| Bayesian Torch | Python | Bayesian neural networks | https://github.com/IntelLabs/bayesian-torch |
+| Blitz | Python | Bayesian layers in PyTorch | https://github.com/piEsposito/blitz-bayesian-deep-learning |
 
 ### Sensitivity Analysis
 
-| Tool | Language | Description | Link |
-|------|----------|-------------|------|
-| SALib | Python | Sensitivity Analysis Library | [GitHub](https://github.com/SALib/SALib) |
+| Tool | Language | Description | Official Link |
+|------|----------|-------------|---------------|
+| SALib | Python | Sensitivity Analysis Library | https://salib.readthedocs.io/ |
 
 ---
 
 ## 📊 Related Datasets
 
-| Dataset | Description | Link |
-|---------|-------------|------|
-| UQ Benchmark Problems | Standard UQ test problems | [UQ World](https://www.uq-world.org/) |
-| NASA UQ Challenge | NASA challenge problems | [NASA](https://www.nasa.gov/) |
+| Dataset | Description | Official Link |
+|---------|-------------|---------------|
+| UQ Benchmark Problems | Standard UQ test problems | https://www.uq-world.org/ |
+| NASA UQ Challenge | NASA challenge problems | https://www.nasa.gov/ |
 
 ---
 
 ## 🏷️ Author's Core Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Deep-aPCE | Deep learning enhanced adaptive PCE | [GitHub](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
-| Deep-PCE-NN | PCE neural network method | [GitHub](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) |
-| Physics-informed-Deep-MC-QR | Physics-informed deep Monte Carlo QR | [GitHub](https://github.com/Xiaohu-Zheng/Physics-informed-Deep-MC-QR) |
+| Project | Description | Official Link |
+|---------|-------------|---------------|
+| Deep-aPCE | Deep learning enhanced adaptive PCE | https://github.com/Xiaohu-Zheng/Deep-aPCE |
+| Deep-PCE-NN | PCE neural network method | https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method |
+| Physics-informed-Deep-MC-QR | Physics-informed deep Monte Carlo QR | https://github.com/Xiaohu-Zheng/Physics-informed-Deep-MC-QR |
 
 ---
 
