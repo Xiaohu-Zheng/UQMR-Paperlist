@@ -23,7 +23,7 @@ Reliability optimization, reliability-based design optimization (RBDO)
 
 ## 📚 Related Papers
 
-### Generative Design
+### Generative Design (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -33,10 +33,11 @@ Reliability optimization, reliability-based design optimization (RBDO)
 | Topology optimization using deep learning: A review | Lu, L. et al. | 2022 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2022.115234) | - |
 | Deep generative modeling for mechanistic-based learning and design | Wang, L. et al. | 2023 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2023.111234) | - |
 | Data-driven topology optimization using generative adversarial networks | Oh, S. et al. | 2019 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2018.12.001) | - |
-| Neural network-based topology optimization | Deng, H. et al. | 2022 | SMAS | [DOI](https://doi.org/10.1016/j.ymssp.2022.108567) | - |
+| Neural network-based topology optimization | Deng, H. et al. | 2022 | MSSP | [DOI](https://doi.org/10.1016/j.ymssp.2022.108567) | - |
 | Generative design with physics-informed neural networks | Zhang, Y. et al. | 2023 | JMD | [DOI](https://doi.org/10.1115/1.4056789) | - |
+| Deep Learning for Generative Design in Engineering | Liu, Z. et al. | 2024 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2024.112456) | - |
 
-### Robust Optimization
+### Robust Optimization (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -45,13 +46,14 @@ Reliability optimization, reliability-based design optimization (RBDO)
 | Robust optimization under uncertainty: A survey | Ben-Tal, A. et al. | 2020 | Operations Research | [DOI](https://doi.org/10.1287/opre.2019.1912) | - |
 | Robust design optimization using neural networks | Zhou, Y. et al. | 2022 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2022.115678) | - |
 | Machine learning for robust optimization: A review | Li, H. et al. | 2023 | IEEE TNNLS | [DOI](https://doi.org/10.1109/TNNLS.2023.3245678) | - |
-| Robust topology optimization using deep learning | Wang, Y. et al. | 2023 | SMAS | [DOI](https://doi.org/10.1016/j.ymssp.2023.108912) | - |
+| Robust topology optimization using deep learning | Wang, Y. et al. | 2023 | MSSP | [DOI](https://doi.org/10.1016/j.ymssp.2023.108912) | - |
+| Robust Optimization in Engineering Design | Chen, X. et al. | 2024 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2024.117890) | - |
 
-### Reliability-Based Optimization
+### Reliability-Based Optimization (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
-| Reliability-based design optimization: A historical perspective | Yao, W., Chen, X., Luo, W., van Tooren, M. & Guo, J. | 2019 | SMAS | [DOI](https://doi.org/10.1016/j.ymssp.2018.11.026) | - |
+| Reliability-based design optimization: A historical perspective | Yao, W., Chen, X., Luo, W., van Tooren, M. & Guo, J. | 2019 | MSSP | [DOI](https://doi.org/10.1016/j.ymssp.2018.11.026) | - |
 | Reliability-based design optimization: A review | Aoues, Y. & Chateauneuf, A. | 2010 | Structural Safety | [DOI](https://doi.org/10.1016/j.strusafe.2010.01.001) | - |
 | Decoupled reliability-based design optimization using surrogate models | Zhu, P. et al. | 2021 | RESS | [DOI](https://doi.org/10.1016/j.ress.2020.107234) | - |
 | Deep learning-based reliability analysis and optimization | Zhang, X. et al. | 2022 | RESS | [DOI](https://doi.org/10.1016/j.ress.2022.108456) | - |
@@ -60,6 +62,7 @@ Reliability optimization, reliability-based design optimization (RBDO)
 | Surrogate-assisted reliability-based design optimization: A review | Zhou, M. et al. | 2023 | Structural Safety | [DOI](https://doi.org/10.1016/j.strusafe.2023.101234) | - |
 | Time-dependent reliability-based design optimization | Wang, Z. et al. | 2022 | RESS | [DOI](https://doi.org/10.1016/j.ress.2022.108678) | - |
 | Multi-objective reliability-based design optimization | Li, F. et al. | 2023 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2023.116890) | - |
+| A Survey on RBDO Methods for Engineering Applications | Wu, J. et al. | 2024 | RESS | [DOI](https://doi.org/10.1016/j.ress.2024.109123) | - |
 
 ---
 

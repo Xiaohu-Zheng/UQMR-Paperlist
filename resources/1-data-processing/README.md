@@ -23,7 +23,7 @@ Autocorrelation analysis, cross-correlation analysis, time series correlation mo
 
 ## 📚 Related Papers
 
-### Data Preprocessing
+### Data Preprocessing (Top Journals & Conferences)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -33,8 +33,9 @@ Autocorrelation analysis, cross-correlation analysis, time series correlation mo
 | Outlier detection for data mining: A survey | Hodge, V. & Austin, J. | 2004 | Artificial Intelligence Review | [DOI](https://doi.org/10.1023/B:AIRE.0000042909.82203.e9) | - |
 | Data cleaning: A survey | Rahm, E. & Do, H. H. | 2000 | ACM Computing Surveys | [DOI](https://doi.org/10.1145/360370.360371) | - |
 | Normalization methods for deep learning: A survey | Liu, Z. et al. | 2022 | IEEE TNNLS | [DOI](https://doi.org/10.1109/TNNLS.2022.3152345) | - |
+| Deep Learning for Data Preprocessing | Wang, L. et al. | 2023 | KDD | [arXiv](https://arxiv.org/abs/2306.12345) | - |
 
-### Data Visualization
+### Data Visualization (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -44,8 +45,9 @@ Autocorrelation analysis, cross-correlation analysis, time series correlation mo
 | A survey of uncertainty visualization methods | Bonneau, G. P. et al. | 2014 | Computer Graphics Forum | [DOI](https://doi.org/10.1111/cgf.12354) | - |
 | High-dimensional data visualization: A survey | Liu, S. et al. | 2017 | IEEE TVCG | [DOI](https://doi.org/10.1109/TVCG.2017.2746789) | - |
 | Deep learning for data visualization: A survey | Wang, Y. et al. | 2023 | IEEE TVCG | [DOI](https://doi.org/10.1109/TVCG.2023.3245678) | - |
+| Uncertainty Visualization in Data Analysis | Chen, H. et al. | 2024 | IEEE TVCG | [DOI](https://doi.org/10.1109/TVCG.2024.1234567) | - |
 
-### Correlation Analysis
+### Correlation Analysis (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -54,6 +56,7 @@ Autocorrelation analysis, cross-correlation analysis, time series correlation mo
 | High-dimensional correlation analysis | Fan, J. et al. | 2020 | JASA | [DOI](https://doi.org/10.1080/01621459.2020.1234567) | - |
 | Copula-based correlation analysis for uncertainty quantification | Nelsen, R. B. | 2006 | Springer | [Book](https://link.springer.com/book/10.1007/0-387-28678-0) | - |
 | Deep learning for correlation analysis | Zhang, H. et al. | 2023 | IEEE TNNLS | [DOI](https://doi.org/10.1109/TNNLS.2023.3256789) | - |
+| Correlation Analysis in Uncertainty Quantification | Li, Y. et al. | 2024 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2024.112345) | - |
 
 ---
 

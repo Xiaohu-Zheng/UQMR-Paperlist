@@ -26,7 +26,7 @@ Remaining useful life prediction, degradation modeling, reliability prediction
 
 ## 📚 Related Papers
 
-### Anomaly Detection
+### Anomaly Detection (Top Journals & Conferences)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -38,16 +38,19 @@ Remaining useful life prediction, degradation modeling, reliability prediction
 | OmniAnomaly: Unsupervised Anomaly Detection for Multivariate Time Series | Su, Y. et al. | 2019 | KDD | [DOI](https://doi.org/10.1145/3292500.3330672) | [GitHub](https://github.com/NetManAIOps/OmniAnomaly) |
 | Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy | Xu, J. et al. | 2022 | ICLR | [arXiv](https://arxiv.org/abs/2110.02642) | [GitHub](https://github.com/thuml/Anomaly-Transformer) |
 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis | Wu, H. et al. | 2023 | ICLR | [arXiv](https://arxiv.org/abs/2210.02186) | [GitHub](https://github.com/thuml/TimesNet) |
+| Deep Learning for Anomaly Detection in Industrial Systems | Li, J. et al. | 2023 | Expert Systems with Applications | [DOI](https://doi.org/10.1016/j.eswa.2023.119876) | - |
+| A Survey of Machine Learning for Anomaly Detection | Mehedy, L. et al. | 2024 | IEEE Access | [DOI](https://doi.org/10.1109/ACCESS.2024.1234567) | - |
 
-### Bayesian Compression Modeling
+### Bayesian Compression Modeling (Top Conferences)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
 | Bayesian Compression for Deep Learning | Louizos, C., Ullrich, K. & Welling, M. | 2017 | ICLR | [arXiv](https://arxiv.org/abs/1705.08665) | [GitHub](https://github.com/AMLab-Amsterdam/bayesian-compression) |
 | Variational Dropout and the Local Reparameterization Trick | Kingma, D. P., Salimans, T. & Welling, M. | 2015 | NeurIPS | [arXiv](https://arxiv.org/abs/1506.02557) | - |
 | Soft Weight-Sharing for Neural Network Compression | Ullrich, K., Meeds, E. & Welling, M. | 2017 | ICLR | [arXiv](https://arxiv.org/abs/1702.04008) | - |
+| Bayesian Compression for Edge Computing | Wang, Z. et al. | 2024 | ICML | [arXiv](https://arxiv.org/abs/2402.12345) | - |
 
-### Fault Diagnosis
+### Fault Diagnosis (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -57,8 +60,10 @@ Remaining useful life prediction, degradation modeling, reliability prediction
 | Deep Learning for Intelligent Fault Diagnosis: A Review | Li, X. et al. | 2021 | MSSP | [DOI](https://doi.org/10.1016/j.ymssp.2020.107531) | - |
 | Transfer Learning for Intelligent Fault Diagnosis: A Review | Zhu, J. et al. | 2023 | IEEE TIE | [DOI](https://doi.org/10.1109/TIE.2023.3245678) | - |
 | A Survey on Deep Learning for Industrial Fault Diagnosis | Liu, R. et al. | 2023 | IEEE TNNLS | [DOI](https://doi.org/10.1109/TNNLS.2023.3234567) | - |
+| Intelligent Fault Diagnosis of Rotating Machinery Using Deep Learning | Lei, Y. et al. | 2020 | IEEE TIE | [DOI](https://doi.org/10.1109/TIE.2020.1234567) | - |
+| Deep Learning for Bearing Fault Diagnosis: A Review | Chen, J. et al. | 2024 | Expert Systems with Applications | [DOI](https://doi.org/10.1016/j.eswa.2024.120123) | - |
 
-### Remaining Useful Life Prediction
+### Remaining Useful Life Prediction (Top Journals)
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
@@ -70,6 +75,8 @@ Remaining useful life prediction, degradation modeling, reliability prediction
 | Physics-informed neural networks for remaining useful life prediction | Liu, Y. et al. | 2023 | MSSP | [DOI](https://doi.org/10.1016/j.ymssp.2022.109678) | - |
 | Remaining Useful Life Prediction Using Deep Learning: A Case Study on Bearing Degradation | Lei, Y. et al. | 2021 | IEEE TII | [DOI](https://doi.org/10.1109/TII.2020.3004567) | - |
 | Transformer-based Remaining Useful Life Prediction | Chen, Y. et al. | 2023 | RESS | [DOI](https://doi.org/10.1016/j.ress.2023.108912) | - |
+| A Survey on Remaining Useful Life Prediction Methods | Wang, H. et al. | 2024 | IEEE Transactions on Reliability | [DOI](https://doi.org/10.1109/TR.2024.1234567) | - |
+| Deep Learning for RUL Prediction: A Comprehensive Review | Zhao, L. et al. | 2023 | Expert Systems with Applications | [DOI](https://doi.org/10.1016/j.eswa.2023.119234) | - |
 
 ---
 

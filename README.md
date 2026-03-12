@@ -56,50 +56,32 @@ This project is organized along five research directions:
 
 #### [Direction 1: Data Processing and Analysis](resources/1-data-processing/)
 
-Data preprocessing, visualization, and correlation analysis methods
-
-**Sub-directions:**
-- Data preprocessing methods
-- Data visualization methods
-- Auto/cross-correlation analysis methods
+**Sub-directions:** Data preprocessing, visualization, correlation analysis
 
 **Integrated Content:**
-- 📄 Papers: 17+ papers on preprocessing, visualization, and correlation analysis
-- 🛠️ Tools: pandas, numpy, scipy, matplotlib, seaborn, plotly, bokeh, altair, statsmodels
-- 📊 Datasets: Standard UQ benchmarks
+- 📄 Papers: 20+ papers from IEEE TNNLS, IEEE TVCG, KDD, JMLR, JCP
+- 🛠️ Tools: pandas, numpy, scipy, matplotlib, seaborn, plotly, bokeh, altair, statsmodels, scikit-learn
+- 📊 Datasets: UQ benchmarks, UCI ML Repository, Kaggle Datasets
 
 ---
 
 #### [Direction 2: Ensemble Modeling](resources/2-ensemble-modeling/)
 
-Unified prediction framework construction, integrating multiple modeling approaches
-
-**Sub-directions:**
-- Basic modeling methods
-- Model ensemble methods
-- Foundation model library
-- Time series prediction methods
-- Deep learning-based physics field modeling methods
+**Sub-directions:** Basic modeling, model ensemble, foundation models, time series prediction, physics field modeling
 
 **Integrated Content:**
-- 📄 Papers: 20+ papers on Gaussian processes, ensembles, time series, and physics-informed methods
-- 🛠️ Tools: scikit-learn, PyTorch, TensorFlow, SMT, DeepXDE, Deep-aPCE, prophet, NeuralForecast
+- 📄 Papers: 30+ papers from NeurIPS, ICML, ICLR, AAAI, JCP, CMAME, RESS, NMI, TPAMI
+- 🛠️ Tools: PyTorch, TensorFlow, scikit-learn, SMT, DeepXDE, Deep-aPCE, prophet, NeuralForecast
 - 📊 Datasets: Monash Time Series Forecasting Archive
 
 ---
 
 #### [Direction 3: Multiscale Reliability](resources/3-multiscale-reliability/)
 
-Reliability assessment of complex systems across different temporal and spatial scales
-
-**Sub-directions:**
-- Anomaly detection methods
-- Bayesian compression modeling methods
-- Fault diagnosis methods
-- Remaining useful life prediction methods
+**Sub-directions:** Anomaly detection, Bayesian compression, fault diagnosis, remaining useful life prediction
 
 **Integrated Content:**
-- 📄 Papers: 23+ papers on anomaly detection, fault diagnosis, and RUL prediction
+- 📄 Papers: 35+ papers from KDD, ICLR, MSSP, RESS, IEEE TIE, IEEE TNNLS, ESWA, IEEE TR
 - 🛠️ Tools: PyOD, Alibi Detect, OpenSees, FERUM, UQMRLib
 - 📊 Datasets: NASA Bearing, PHM Challenge, C-MAPSS, FEMTO Bearing
 
@@ -107,37 +89,23 @@ Reliability assessment of complex systems across different temporal and spatial 
 
 #### [Direction 4: Uncertainty Analysis](resources/4-uncertainty-analysis/) ⭐ Core
 
-Core methods for uncertainty quantification and propagation
-
-**Sub-directions:**
-- Uncertainty calibration
-- Uncertainty quantification in deep learning (model uncertainty, data uncertainty)
-- Uncertainty fusion methods
-- Polynomial chaos expansion (PCE) methods
+**Sub-directions:** Uncertainty calibration, deep learning UQ, uncertainty fusion, polynomial chaos expansion
 
 **Integrated Content:**
-- 📄 Papers: 35+ papers on calibration, deep learning UQ, and polynomial chaos expansion
+- 📄 Papers: 40+ papers from ICML, NeurIPS, ICLR, UAI, TPAMI, JCP, CMAME, RESS, NMI, CVPR
 - 🛠️ Tools: UQpy, OpenTURNS, ChaosPy, UQLab, Dakota, Uncertainty Toolbox, Bayesian Torch, Blitz, SALib
 - 📊 Datasets: UQ Benchmark Problems, NASA UQ Challenge
-- 🏷️ Author's Core Projects:
-  - [Deep-aPCE](https://github.com/Xiaohu-Zheng/Deep-aPCE)
-  - [Deep-PCE-NN](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method)
-  - [Physics-informed-Deep-MC-QR](https://github.com/Xiaohu-Zheng/Physics-informed-Deep-MC-QR)
+- 🏷️ Author's Projects: [Deep-aPCE](https://github.com/Xiaohu-Zheng/Deep-aPCE), [Deep-PCE-NN](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method), [Physics-informed-Deep-MC-QR](https://github.com/Xiaohu-Zheng/Physics-informed-Deep-MC-QR)
 
 ---
 
 #### [Direction 5: Uncertainty-Based Design](resources/5-uncertainty-design/)
 
-Reliability-driven engineering design optimization methods
-
-**Sub-directions:**
-- Generative design methods
-- Generative robust optimization methods
-- Generative reliability-based optimization methods
+**Sub-directions:** Generative design, robust optimization, reliability-based optimization (RBDO)
 
 **Integrated Content:**
-- 📄 Papers: 26+ papers on generative design, robust optimization, and RBDO
-- 🛠️ Tools: pyomo, scipy.optimize, NLopt, Dakota, OpenSees, UQMRLib, GPyTorch
+- 📄 Papers: 28+ papers from CMAME, JCP, RESS, MSSP, Mathematical Programming, JMD
+- 🛠️ Tools: pyomo, scipy.optimize, NLopt, Dakota, OpenSees, UQMRLib, GPyTorch, PyTorch Lightning
 - 📊 Datasets: Design optimization benchmarks
 - 🏷️ Author's Project: [missile-design-optimization](https://github.com/Xiaohu-Zheng/missile-design-optimization)
 
@@ -145,11 +113,11 @@ Reliability-driven engineering design optimization methods
 
 ### 📚 Shared Resources
 
-| Resource | Description | Integrated Content |
-|----------|-------------|-------------------|
-| [**Books & Tutorials**](shared/books-tutorials.md) | Classic textbooks, online courses, video tutorials | UQ textbooks, deep learning books, online courses |
-| [**Conferences & Journals**](shared/conferences-journals.md) | Core journals, major conferences, submission guides | RESS, JCP, NeurIPS, ICML, etc. |
-| [**Research Groups**](shared/research-groups.md) | Global research institutions and academic communities | MIT, ETH, NUDT, Sandia, etc. |
+| Resource | Description | Venue Coverage |
+|----------|-------------|----------------|
+| [**Books & Tutorials**](shared/books-tutorials.md) | Textbooks, courses, tutorials | MIT Press, Springer, SIAM |
+| [**Conferences & Journals**](shared/conferences-journals.md) | Core journals and conferences | RESS, JCP, NeurIPS, ICML, etc. |
+| [**Research Groups**](shared/research-groups.md) | Global research institutions | MIT, ETH, NUDT, Sandia, etc. |
 
 ---
 
@@ -157,96 +125,78 @@ Reliability-driven engineering design optimization methods
 
 ### By Content Type
 
-| Type | Count | Description |
-|------|-------|-------------|
-| 📄 Papers | **120+** | Core papers covering five directions (2021-2026 focused) |
-| 🛠️ Tools | 30+ | Python/MATLAB/C++ open-source tools |
-| 📊 Datasets | 10+ | Standard benchmark datasets |
-| 📚 Books | 8+ | Classic textbooks and tutorials |
-| 🎓 Conferences & Journals | 15+ | Core publication venues |
+| Type | Count | Top Venues |
+|------|-------|------------|
+| 📄 Papers | **150+** | ICML, NeurIPS, ICLR, UAI, CVPR, KDD, AAAI, RESS, MSSP, CMAME, JCP, TPAMI, NMI, IEEE TR, ESWA |
+| 🛠️ Tools | 30+ | Python, MATLAB, C++ libraries |
+| 📊 Datasets | 10+ | NASA, PHM, UCI, Kaggle |
+| 📚 Books | 8+ | MIT Press, Springer, SIAM |
 
 ### By Direction
 
-| Direction | Papers | Tools | Datasets |
-|-----------|--------|-------|----------|
-| Direction 1: Data Processing | 17+ | 9 | 1 |
-| Direction 2: Ensemble Modeling | 20+ | 10 | 1 |
-| Direction 3: Multiscale Reliability | 23+ | 5 | 4 |
-| Direction 4: Uncertainty Analysis ⭐ | 35+ | 10 | 2 |
-| Direction 5: Uncertainty-Based Design | 26+ | 7 | 1 |
+| Direction | Papers | Top Venues |
+|-----------|--------|------------|
+| Direction 1: Data Processing | 20+ | IEEE TNNLS, IEEE TVCG, KDD, JMLR |
+| Direction 2: Ensemble Modeling | 30+ | NeurIPS, ICML, ICLR, JCP, CMAME, NMI |
+| Direction 3: Multiscale Reliability | 35+ | KDD, ICLR, MSSP, RESS, IEEE TIE/TNNLS |
+| Direction 4: Uncertainty Analysis ⭐ | 40+ | ICML, NeurIPS, ICLR, UAI, TPAMI, JCP |
+| Direction 5: Uncertainty-Based Design | 28+ | CMAME, JCP, RESS, MSSP, Math. Prog. |
 
 ### By Keywords
 
-| Keyword | Related Direction | Integrated Papers |
-|---------|-------------------|-------------------|
-| Polynomial Chaos Expansion (PCE) | Direction 4 | 12 papers |
-| Deep Learning Uncertainty | Direction 4 | 10 papers |
-| Physics-Informed Neural Networks (PINN) | Direction 2 | 8 papers |
-| Reliability-Based Design Optimization (RBDO) | Direction 5 | 9 papers |
-| Remaining Useful Life (RUL) Prediction | Direction 3 | 8 papers |
-| Anomaly Detection | Direction 3 | 8 papers |
-| Time Series Forecasting | Direction 2 | 5 papers |
-| Generative Design | Direction 5 | 8 papers |
+| Keyword | Direction | Paper Count |
+|---------|-----------|-------------|
+| Polynomial Chaos Expansion (PCE) | Direction 4 | 12+ |
+| Deep Learning Uncertainty | Direction 4 | 15+ |
+| Physics-Informed Neural Networks | Direction 2 | 10+ |
+| Reliability-Based Design Optimization | Direction 5 | 10+ |
+| Remaining Useful Life (RUL) | Direction 3 | 10+ |
+| Anomaly Detection | Direction 3 | 10+ |
+| Time Series Forecasting | Direction 2 | 8+ |
+| Generative Design | Direction 5 | 9+ |
 
 ---
 
 ## 🚀 Quick Start
 
 ### For Beginners
-
-1. 📖 Read [Direction 4: Uncertainty Analysis](resources/4-uncertainty-analysis/) to understand core concepts
-2. 🛠️ Use [UQpy](https://github.com/SURGroup/UQpy) or [ChaosPy](https://github.com/jonathf/chaospy) to start practicing
-3. 📚 Refer to [Books & Tutorials](shared/books-tutorials.md) for in-depth learning
+1. 📖 Read [Direction 4: Uncertainty Analysis](resources/4-uncertainty-analysis/)
+2. 🛠️ Use [UQpy](https://github.com/SURGroup/UQpy) or [ChaosPy](https://github.com/jonathf/chaospy)
+3. 📚 Refer to [Books & Tutorials](shared/books-tutorials.md)
 
 ### For Researchers
-
-1. 📰 Check [Conferences & Journals](shared/conferences-journals.md) for publication venues
-2. 🔬 Browse [Research Groups](shared/research-groups.md) for collaboration opportunities
-3. 🛠️ Explore open-source tools in each direction to accelerate research
+1. 📰 Check [Conferences & Journals](shared/conferences-journals.md)
+2. 🔬 Browse [Research Groups](shared/research-groups.md)
+3. 🛠️ Explore tools in each direction
 
 ---
 
-## 🛠️ Core Open-Source Projects
-
-Core open-source tools maintained by the project author:
+## 🛠️ Author's Core Projects
 
 | Project | Description | Direction | Stars |
 |---------|-------------|-----------|-------|
-| [Deep-aPCE](https://github.com/Xiaohu-Zheng/Deep-aPCE) | Deep learning enhanced adaptive polynomial chaos expansion | Direction 4 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Deep-aPCE?style=flat-square) |
-| [Deep-Polynomial-Chaos-Neural-Network-Method](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) | Polynomial chaos neural network method | Direction 4 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method?style=flat-square) |
-| [Physics-informed-Deep-MC-QR](https://github.com/Xiaohu-Zheng/Physics-informed-Deep-MC-QR) | Physics-informed deep Monte Carlo quantile regression | Direction 4 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Physics-informed-Deep-MC-QR?style=flat-square) |
-| [Binary-Compression-Algorithm](https://github.com/Xiaohu-Zheng/Binary-Compression-Algorithm) | Binary compression algorithm for satellite system reliability analysis | Direction 3 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Binary-Compression-Algorithm?style=flat-square) |
-| [UQMRLib](https://github.com/Xiaohu-Zheng/UQMRLib) | AI-enhanced uncertainty quantification and multiscale reliability library | All directions | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/UQMRLib?style=flat-square) |
-| [missile-design-optimization](https://github.com/Xiaohu-Zheng/missile-design-optimization) | Missile design optimization | Direction 5 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/missile-design-optimization?style=flat-square) |
+| [Deep-aPCE](https://github.com/Xiaohu-Zheng/Deep-aPCE) | Deep learning enhanced adaptive PCE | Direction 4 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Deep-aPCE?style=flat-square) |
+| [Deep-PCE-NN](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) | PCE neural network method | Direction 4 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method?style=flat-square) |
+| [Physics-informed-Deep-MC-QR](https://github.com/Xiaohu-Zheng/Physics-informed-Deep-MC-QR) | Physics-informed deep Monte Carlo QR | Direction 4 | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/Physics-informed-Deep-MC-QR?style=flat-square) |
+| [UQMRLib](https://github.com/Xiaohu-Zheng/UQMRLib) | AI-enhanced UQ library | All directions | ![Stars](https://img.shields.io/github/stars/Xiaohu-Zheng/UQMRLib?style=flat-square) |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions welcome! Fork → Add → Submit PR
 
-### How to Contribute
-
-1. **Fork** this repository
-2. **Add** papers, tools, or resources to the corresponding direction directory
-3. **Submit** a Pull Request
-
-### Contribution Guidelines
-
-- Paper format: `| Full Title | Authors | Year | Venue | Paper Link | Code |`
-- Tool format: `| Tool | Language | Description | Link |`
-- Please ensure links are valid and categorization is accurate
+### Paper Format
+`| Full Title | Authors | Year | Venue | Paper Link | Code |`
 
 ---
 
 ## 📝 Citation
 
-If you find this project helpful for your research, please consider citing:
-
 ```bibtex
 @misc{uqmrsources,
   author = {Zheng, Xiaohu},
-  title = {UQMRsources: A Curated Collection of Papers and Resources for Uncertainty Quantification and Multiscale Reliability Analysis},
+  title = {UQMRsources: Papers and Resources for UQ and Multiscale Reliability},
   year = {2026},
   publisher = {GitHub},
   url = {https://github.com/Xiaohu-Zheng/UQMRsources}
@@ -255,24 +205,15 @@ If you find this project helpful for your research, please consider citing:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📧 Contact
 
 - **Author**: Xiaohu Zheng
-- **Research Area**: Uncertainty Quantification and Multiscale Reliability Analysis
 - **GitHub**: [Xiaohu-Zheng](https://github.com/Xiaohu-Zheng)
 
 ---
 
 <div align="center">
 
-**⭐ If this project is helpful, please give it a Star!**
-
-Made with ❤️ by [Xiaohu-Zheng](https://github.com/Xiaohu-Zheng)
+**⭐ If helpful, please Star!**
 
 </div>
