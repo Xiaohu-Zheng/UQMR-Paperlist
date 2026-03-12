@@ -1,48 +1,51 @@
-# Datasets
+# Datasets for Uncertainty Quantification & Reliability Analysis
 
-> Benchmark datasets for uncertainty quantification and reliability analysis
+This directory contains benchmark datasets and example data for UQ and reliability analysis.
 
-## Classical Reliability Test Functions
+## Standard Benchmark Problems
 
-| Dataset | Description | Variables | Format | Link |
-|---------|-------------|-----------|--------|------|
-| Cantilever Beam | Classical reliability benchmark | 2 | Python | [Link](https://...) |
-| Series System | Series system reliability problem | 2 | Python | [Link](https://...) |
-| Performance Function | Performance function benchmark | 2 | Python | [Link](https://...) |
-| Highly Nonlinear | Highly nonlinear performance function | 2 | Python | [Link](https://...) |
-| Four-Branch | Four-branch series system | 2 | Python | [Link](https://...) |
+### 1. RELIAB Benchmarks
+- **Description**: Standard reliability benchmark problems
+- **Problems**: Series system, Parallel system, High-dimensional problems
+- **Reference**: Various RESS papers
 
-## Aerospace Structures
+### 2. UQ Test Functions
+- **Ishigami Function**: Common sensitivity analysis test function
+- **Sobol' G-function**: Variance-based sensitivity test
+- **Borehole Function**: Groundwater flow model
+- **Wing Weight Function**: Aircraft design problem
 
-| Dataset | Description | Variables | Format | Link |
-|---------|-------------|-----------|--------|------|
-| Wing Structure | Aircraft wing reliability analysis | 10+ | HDF5 | [Link](https://...) |
-| Turbine Blade | Turbine blade reliability data | 20+ | HDF5 | [Link](https://...) |
+### 3. Structural Reliability
+- ** Cantilever Beam**: Simple beam reliability problem
+- **Portal Frame**: Frame structure reliability
+- **Truss Systems**: Multiple truss configurations
 
-## Material Properties
+## Real-world Datasets
 
-| Dataset | Description | Variables | Format | Link |
-|---------|-------------|-----------|--------|------|
-| Steel Properties | Steel material property variability | 5 | CSV | [Link](https://...) |
-| Composite Materials | Composite material uncertainties | 10+ | HDF5 | [Link](https://...) |
+### Engineering Applications
+- Aerospace component failure data
+- Structural health monitoring data
+- Fatigue life data
 
-## Synthetic Data
-
-| Dataset | Description | Variables | Format | Link |
-|---------|-------------|-----------|--------|------|
-| High-Dimensional | Synthetic high-dimensional test | 100+ | CSV | [Link](https://...) |
-| Multiscale | Multiscale synthetic data | 50+ | HDF5 | [Link](https://...) |
+### Environmental Data
+- Wind load statistics
+- Earthquake ground motion records
+- Material property variations
 
 ---
 
-## How to Use
+## 📊 Dataset Format
 
-```python
-# Example: Load dataset using UQMRLib
-from uqmrlib.datasets import load_cantilever_beam
+Datasets are provided in standard formats:
+- `.csv` - Comma-separated values
+- `.mat` - MATLAB format
+- `.npz` - NumPy compressed format
+- `.json` - JSON format
 
-problem = load_cantilever_beam()
-print(problem.description)
-print(f"Variables: {problem.n_vars}")
-print(f"True Pf: {problem.true_pf}")
-```
+## 📝 Contributing
+
+To contribute a new dataset:
+1. Ensure the data is properly documented
+2. Include source citation
+3. Provide statistical summary
+4. Submit via Pull Request

@@ -1,28 +1,25 @@
-# Papers Template
+# Papers Collection
 
-This directory contains paper lists organized by topics.
+This directory contains categorized paper lists and summaries.
 
-## File Naming Convention
+## Categories
 
-- `deep-learning-pce.md` - Deep learning enhanced polynomial chaos expansion
-- `adaptive-pce.md` - Adaptive polynomial chaos methods
-- `multiscale-reliability.md` - Multiscale reliability analysis
-- `physics-informed-uq.md` - Physics-informed uncertainty quantification
-- `sensitivity-analysis.md` - Sensitivity analysis
-- `high-dimensional.md` - High-dimensional problems
-- `applications.md` - Engineering applications
-- `surveys.md` - Survey and overview papers
+- [deep-learning-pce.md](deep-learning-pce.md) - Deep Learning enhanced Polynomial Chaos Expansion
+- `surrogate-modeling/` - Surrogate modeling papers
+- `multiscale-methods/` - Multiscale analysis papers
+- `sensitivity-analysis/` - Sensitivity analysis papers
 
-## Paper Entry Format
+## Paper Format
 
 ```markdown
-| Paper Title | Authors | Venue | Year | Ref | Materials |
-|-------------|---------|-------|------|-----|-----------|
-| Title of the paper | Author1, Author2 | Journal/Conference | 2024 | [Author2024] | [PDF](link), [Code](github-link) |
+| Title | Authors | Year | Venue | DOI/Link |
+|-------|---------|------|-------|----------|
+| Paper title | Author names | Year | Journal/Conf | [DOI](link) |
 ```
 
-## Example
+## Key Venues
 
-```markdown
-| Deep learning-based adaptive polynomial chaos expansion for uncertainty quantification | Xiaohu Zheng, ... | Reliability Engineering & System Safety | 2025 | [Zheng2025] | [PDF](https://doi.org/...), [Code](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
-```
+- **RESS** - Reliability Engineering & System Safety
+- **Structural Safety** - Elsevier
+- **JCP** - Journal of Computational Physics
+- **CMAME** - Computer Methods in Applied Mechanics and Engineering
