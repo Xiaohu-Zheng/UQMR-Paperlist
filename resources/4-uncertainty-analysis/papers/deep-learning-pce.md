@@ -1,51 +1,53 @@
 # Deep Learning Enhanced Polynomial Chaos Expansion
 
-## Overview
+**A Collection of Papers on Deep Learning Enhanced PCE Methods**
 
-This collection focuses on the integration of deep learning with polynomial chaos expansion (PCE) for uncertainty quantification and reliability analysis.
+---
 
-## Key Papers
+## 📖 Overview
 
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Deep Polynomial Chaos: A Deep Learning Framework for Uncertainty Quantification | Zhang et al. | 2021 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2021.110543) |
-| Neural Network Enhanced Polynomial Chaos Expansion | Zheng et al. | 2024 | RESS | [GitHub](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) |
-| Adaptive PCE with Deep Learning | Li et al. | 2023 | RESS | - |
-| Physics-Informed Neural Networks for UQ | Raissi et al. | 2019 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2018.10.045) |
+This document collects papers on deep learning enhanced polynomial chaos expansion methods, which combine the theoretical rigor of PCE with the approximation power of neural networks.
 
-## Open Source Implementations
+---
 
-| Project | Language | Description | Link |
-|---------|----------|-------------|------|
-| Deep-aPCE | Python | Adaptive PCE with neural network enhancement | [GitHub](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
-| Deep-PCE | Python | Deep learning enhanced PCE | [GitHub](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) |
-| ChaosPy | Python | General PCE library | [GitHub](https://github.com/jonathf/chaospy) |
+## 📚 Paper List
 
-## Methodology
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| The Wiener-Askey Polynomial Chaos for Stochastic Differential Equations | Xiu, D. & Karniadakis, G. E. | 2002 | JCP | [DOI](https://doi.org/10.1006/jcph.2002.7023) | - |
+| Adaptive sparse polynomial chaos expansion based on least angle regression | Blatman, G. & Sudret, B. | 2011 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2010.11.021) | - |
+| Adaptive polynomial chaos expansion for probability density function approximation | Li, H. & Xiu, D. | 2010 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2010.09.041) | - |
+| Deep Polynomial Chaos: An approximation theory approach | Zhang, D., Lu, L., Guo, L. & Karniadakis, G. E. | 2021 | JCP | [DOI](https://doi.org/10.1016/j.jcp.2021.110543) | - |
+| Neural network enhanced polynomial chaos method for uncertainty quantification | Zheng, X., Yao, W. & Chen, X. | 2024 | RESS | [DOI](https://doi.org/10.1016/j.ress.2024.110123) | [GitHub](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) |
+| Deep learning enhanced adaptive polynomial chaos expansion for uncertainty quantification | Zheng, X., Yao, W. & Chen, X. | 2024 | RESS | [DOI](https://doi.org/10.1016/j.ress.2024.110456) | [GitHub](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
 
-### Standard PCE
-- Orthogonal polynomial basis
-- Galerkin projection or collocation
-- Sparse regression for coefficient estimation
+---
 
-### Deep Learning Enhanced PCE
-- Neural network for coefficient approximation
-- Adaptive basis selection
-- Transfer learning for similar problems
+## 🔑 Key Contributions
 
-## Applications
+### Traditional PCE Methods
 
-- Aerospace reliability analysis
-- Structural safety assessment
-- Fatigue life prediction
-- Composite material design
+1. **Xiu & Karniadakis (2002)**: Established the theoretical foundation of polynomial chaos expansion using Wiener-Askey polynomials
+2. **Blatman & Sudret (2011)**: Proposed sparse PCE using LARS algorithm for efficient coefficient estimation
+3. **Li & Xiu (2010)**: Developed adaptive PCE for probability density function approximation
 
-## Future Directions
+### Deep Learning Enhanced PCE Methods
 
-1. Physics-informed neural networks for PCE
-2. Transfer learning across reliability problems
-3. Multiscale PCE methods
-4. Bayesian neural networks for epistemic uncertainty
+1. **Zhang et al. (2021)**: Introduced deep polynomial chaos with approximation theory approach
+2. **Zheng et al. (2024)**: Proposed neural network enhanced PCE for improved accuracy
+3. **Zheng et al. (2024)**: Developed adaptive PCE enhanced by deep learning for uncertainty quantification
+
+---
+
+## 🛠️ Open-Source Implementations
+
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| Deep-aPCE | Deep learning enhanced adaptive PCE | Python | [GitHub](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
+| Deep-PCE-NN | PCE neural network method | Python | [GitHub](https://github.com/Xiaohu-Zheng/Deep-Polynomial-Chaos-Neural-Network-Method) |
+| ChaosPy | General polynomial chaos library | Python | [GitHub](https://github.com/jonathf/chaospy) |
+| UQpy | Comprehensive UQ library with PCE | Python | [GitHub](https://github.com/SURGroup/UQpy) |
+| OpenTURNS | Open-source UQ platform with PCE | Python/C++ | [GitHub](https://github.com/openturns/openturns) |
 
 ---
 

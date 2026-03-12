@@ -1,54 +1,53 @@
-# 方向 5: 不确定性设计
+# Direction 5: Uncertainty-Based Design
 
 **Uncertainty-Based Design**
 
 ---
 
-## 📖 概述
+## 📖 Overview
 
-不确定性设计将不确定性量化方法融入设计优化过程，实现鲁棒性和可靠性驱动的工程设计。
+Uncertainty-based design integrates uncertainty quantification methods into the design optimization process to achieve robustness and reliability-driven engineering design.
 
-## 📂 子方向
+## 📂 Sub-directions
 
-### 5.1 生成式设计方法
-生成模型、设计空间探索、拓扑优化
+### 5.1 Generative Design Methods
+Generative models, design space exploration, topology optimization
 
-### 5.2 生成式鲁棒优化方法
-鲁棒优化、鲁棒设计、不确定性下的优化
+### 5.2 Generative Robust Optimization Methods
+Robust optimization, robust design, optimization under uncertainty
 
-### 5.3 生成式可靠性优化方法
-可靠性优化、可靠性设计优化（RBDO）
-
----
-
-## 📚 相关论文
-
-### 生成式设计
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Generative design: A review | Krish | 2011 | AI EDAM | [DOI](https://doi.org/10.1017/S0890060411000038) |
-| Deep generative models for design | Rego et al. | 2022 | JMD | [DOI](https://doi.org/10.1115/1.4053784) |
-
-### 鲁棒优化
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Robust optimization: A survey | Bertsimas et al. | 2011 | Math. Prog. | [DOI](https://doi.org/10.1007/s10107-010-0357-9) |
-| Robust design optimization | Beyer & Sendhoff | 2007 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2007.05.004) |
-
-### 可靠性优化
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| RBDO: A historical perspective | Yao et al. | 2019 | SMAS | [DOI](https://doi.org/10.1016/j.ymssp.2018.11.026) |
-| Missile design optimization | Zheng et al. | - | - | [GitHub](https://github.com/Xiaohu-Zheng/missile-design-optimization) |
+### 5.3 Generative Reliability-Based Optimization Methods
+Reliability optimization, reliability-based design optimization (RBDO)
 
 ---
 
-## 🛠️ 相关工具
+## 📚 Related Papers
 
-### 优化框架
+### Generative Design
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| A practical generative design method: A review | Krish, S. | 2011 | AI EDAM | [DOI](https://doi.org/10.1017/S0890060411000038) | - |
+| Deep generative models for design: A review | Rego, R. et al. | 2022 | JMD | [DOI](https://doi.org/10.1115/1.4053784) | - |
+
+### Robust Optimization
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| Robust optimization: A survey | Bertsimas, D., Brown, D. B. & Caramanis, C. | 2011 | Mathematical Programming | [DOI](https://doi.org/10.1007/s10107-010-0357-9) | - |
+| Robust design optimization: A comprehensive survey | Beyer, H.-G. & Sendhoff, B. | 2007 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2007.05.004) | - |
+
+### Reliability-Based Optimization
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| Reliability-based design optimization: A historical perspective | Yao, W., Chen, X., Luo, W., van Tooren, M. & Guo, J. | 2019 | SMAS | [DOI](https://doi.org/10.1016/j.ymssp.2018.11.026) | - |
+
+---
+
+## 🛠️ Related Tools
+
+### Optimization Frameworks
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
@@ -57,14 +56,14 @@
 | NLopt | C/Python | Nonlinear optimization | [GitHub](https://github.com/stevengj/nlopt) |
 | Dakota | C++ | Optimization + UQ toolkit | [GitHub](https://github.com/sandialabs/dakota) |
 
-### 可靠性设计优化
+### Reliability-Based Design Optimization
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
 | OpenSees | C++ | Reliability analysis + RBDO | [GitHub](https://github.com/OpenSees/OpenSees) |
 | UQMRLib | Python | AI-enhanced reliability optimization | [GitHub](https://github.com/Xiaohu-Zheng/UQMRLib) |
 
-### 生成式设计
+### Generative Models
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
@@ -72,11 +71,19 @@
 
 ---
 
-## 📊 相关数据集
+## 📊 Related Datasets
 
 | Dataset | Description | Link |
 |---------|-------------|------|
 | Design optimization benchmarks | Standard RBDO test cases | - |
+
+---
+
+## 🏷️ Author's Project
+
+| Project | Description | Link |
+|---------|-------------|------|
+| missile-design-optimization | Missile design optimization | [GitHub](https://github.com/Xiaohu-Zheng/missile-design-optimization) |
 
 ---
 

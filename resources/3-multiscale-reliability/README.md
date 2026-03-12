@@ -1,69 +1,68 @@
-# 方向 3: 多尺度可靠性
+# Direction 3: Multiscale Reliability
 
 **Multiscale Reliability Analysis**
 
 ---
 
-## 📖 概述
+## 📖 Overview
 
-多尺度可靠性分析研究复杂系统在不同时间和空间尺度下的可靠性评估方法，涵盖异常检测、故障诊断、寿命预测等关键任务。
+Multiscale reliability analysis studies reliability assessment methods for complex systems across different temporal and spatial scales, covering key tasks such as anomaly detection, fault diagnosis, and remaining useful life prediction.
 
-## 📂 子方向
+## 📂 Sub-directions
 
-### 3.1 异常检测方法
-统计过程控制、机器学习异常检测、时序异常检测
+### 3.1 Anomaly Detection Methods
+Statistical process control, machine learning anomaly detection, time series anomaly detection
 
-### 3.2 贝叶斯压缩建模方法
-贝叶斯推断、变分推断、模型压缩
+### 3.2 Bayesian Compression Modeling Methods
+Bayesian inference, variational inference, model compression
 
-### 3.3 故障诊断方法
-故障检测、故障分类、根因分析
+### 3.3 Fault Diagnosis Methods
+Fault detection, fault classification, root cause analysis
 
-### 3.4 寿命预测方法
-剩余寿命预测、退化建模、可靠性预测
-
----
-
-## 📚 相关论文
-
-### 异常检测
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Anomaly detection: A survey | Chandola et al. | 2009 | ACM CSUR | [DOI](https://doi.org/10.1145/1541880.1541882) |
-| Deep learning for anomaly detection | Pang et al. | 2021 | TKDE | [DOI](https://doi.org/10.1109/TKDE.2020.2983386) |
-
-### 贝叶斯压缩建模
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Bayesian compression for DL | Louizos et al. | 2017 | ICLR | [arXiv](https://arxiv.org/abs/1705.08665) |
-| Binary Compression Algorithm | Zheng et al. | - | - | [GitHub](https://github.com/Xiaohu-Zheng/Binary-Compression-Algorithm) |
-
-### 故障诊断
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Fault diagnosis: A survey | - | - | - | - |
-
-### 寿命预测
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Remaining useful life prediction | - | - | - | - |
+### 3.4 Remaining Useful Life Prediction Methods
+Remaining useful life prediction, degradation modeling, reliability prediction
 
 ---
 
-## 🛠️ 相关工具
+## 📚 Related Papers
 
-### 异常检测
+### Anomaly Detection
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| Anomaly detection: A survey | Chandola, V., Banerjee, A. & Kumar, V. | 2009 | ACM Computing Surveys | [DOI](https://doi.org/10.1145/1541880.1541882) | - |
+| Deep learning for anomaly detection: A review | Pang, G., Shen, C., Cao, L. & Hengel, A. V. D. | 2021 | TKDE | [DOI](https://doi.org/10.1109/TKDE.2020.2983386) | - |
+
+### Bayesian Compression Modeling
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| Bayesian Compression for Deep Learning | Louizos, C., Ullrich, K. & Welling, M. | 2017 | ICLR | [arXiv](https://arxiv.org/abs/1705.08665) | [GitHub](https://github.com/AMLab-Amsterdam/bayesian-compression) |
+
+### Fault Diagnosis
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| - | - | - | - | - | - |
+
+### Remaining Useful Life Prediction
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| - | - | - | - | - | - |
+
+---
+
+## 🛠️ Related Tools
+
+### Anomaly Detection
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
 | PyOD | Python | Python outlier detection | [GitHub](https://github.com/yzhao062/pyod) |
 | Alibi Detect | Python | Anomaly detection | [GitHub](https://github.com/SeldonIO/alibi-detect) |
 
-### 可靠性分析
+### Reliability Analysis
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
@@ -73,7 +72,7 @@
 
 ---
 
-## 📊 相关数据集
+## 📊 Related Datasets
 
 | Dataset | Description | Link |
 |---------|-------------|------|

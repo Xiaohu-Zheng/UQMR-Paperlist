@@ -1,49 +1,49 @@
-# 方向 1: 数据处理与分析
+# Direction 1: Data Processing and Analysis
 
 **Data Processing and Analysis**
 
 ---
 
-## 📖 概述
+## 📖 Overview
 
-数据处理与分析是不确定性量化与多尺度可靠性分析的基础环节，为后续建模和分析提供高质量的输入数据。
+Data processing and analysis is the foundational stage of uncertainty quantification and multiscale reliability analysis, providing high-quality input data for subsequent modeling and analysis.
 
-## 📂 子方向
+## 📂 Sub-directions
 
-### 1.1 数据预处理方法
-数据清洗、特征提取、缺失值处理、异常值检测等
+### 1.1 Data Preprocessing Methods
+Data cleaning, feature extraction, missing value handling, outlier detection, etc.
 
-### 1.2 数据可视化方法
-高维数据可视化、不确定性可视化、交互式可视化工具
+### 1.2 Data Visualization Methods
+High-dimensional data visualization, uncertainty visualization, interactive visualization tools
 
-### 1.3 数据自/互相关性分析方法
-自相关分析、互相关分析、时序相关性建模
-
----
-
-## 📚 相关论文
-
-### 数据预处理
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Data-driven preprocessing for UQ | - | - | - | - |
-
-### 数据可视化
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Uncertainty visualization methods | - | - | - | - |
-
-### 相关性分析
-
-| Title | Authors | Year | Venue | Link |
-|-------|---------|------|-------|------|
-| Correlation analysis in reliability | - | - | - | - |
+### 1.3 Auto/Cross-Correlation Analysis Methods
+Autocorrelation analysis, cross-correlation analysis, time series correlation modeling
 
 ---
 
-## 🛠️ 相关工具
+## 📚 Related Papers
+
+### Data Preprocessing
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| - | - | - | - | - | - |
+
+### Data Visualization
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| - | - | - | - | - | - |
+
+### Correlation Analysis
+
+| Full Title | Authors | Year | Venue | Paper Link | Code |
+|------------|---------|------|-------|------------|------|
+| - | - | - | - | - | - |
+
+---
+
+## 🛠️ Related Tools
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 相关数据集
+## 📊 Related Datasets
 
 | Dataset | Description | Link |
 |---------|-------------|------|
