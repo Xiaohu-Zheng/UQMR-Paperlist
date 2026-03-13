@@ -1,10 +1,10 @@
-# 不确定性设计优化
+# Uncertainty-Based Design Optimization
 
-不确定性设计优化研究如何在设计阶段考虑不确定性，实现可靠且稳健的设计方案。
+Uncertainty-based design optimization studies how to consider uncertainties during the design phase to achieve reliable and robust design solutions.
 
 ---
 
-## 研究方向
+## Research Directions
 
 ### Reliability-Based Design Optimization
 
@@ -30,9 +30,9 @@
 
 ---
 
-## 相关开源代码
+## Open-Source Code
 
-| 项目名称 | 描述 | 链接 |
+| Project Name | Description | Link |
 |---------|------|------|
 | OpenMDAO | Multidisciplinary Design Optimization | [GitHub](https://github.com/OpenMDAO/OpenMDAO) |
 | Dakota | Design Optimization | [Website](https://dakota.sandia.gov/) |
@@ -40,4 +40,4 @@
 
 ---
 
-*最后更新: 2025-03*
+*Last Updated: March 2025*

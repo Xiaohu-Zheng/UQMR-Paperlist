@@ -1,10 +1,10 @@
-# 多尺度可靠性分析
+# Multiscale Reliability Analysis
 
-多尺度可靠性分析关注从微观到宏观不同尺度下的不确定性传播与可靠性评估。
+Multiscale reliability analysis focuses on uncertainty propagation and reliability assessment across different scales from micro to macro.
 
 ---
 
-## 研究方向
+## Research Directions
 
 ### Multiscale Modeling
 
@@ -30,13 +30,13 @@
 
 ---
 
-## 相关开源代码
+## Open-Source Code
 
-| 项目名称 | 描述 | 链接 |
+| Project Name | Description | Link |
 |---------|------|------|
 | FEAP | Finite Element Analysis Program | [Website](https://projects.ce.berkeley.edu/feap/) |
 | Akantu | Finite Element Library | [GitHub](https://github.com/akantu/akantu) |
 
 ---
 
-*最后更新: 2025-03*
+*Last Updated: March 2025*

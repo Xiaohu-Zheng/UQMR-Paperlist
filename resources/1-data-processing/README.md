@@ -1,10 +1,10 @@
-# 数据处理与预处理
+# Data Processing and Preprocessing
 
-数据处理是不确定性量化与可靠性分析的基础，包括数据清洗、特征工程、数据增强等技术。
+Data processing is the foundation of uncertainty quantification and reliability analysis, including data cleaning, feature engineering, data augmentation, and other techniques.
 
 ---
 
-## 研究方向
+## Research Directions
 
 ### Data Preprocessing
 
@@ -30,13 +30,13 @@
 
 ---
 
-## 相关开源代码
+## Open-Source Code
 
-| 项目名称 | 描述 | 链接 |
+| Project Name | Description | Link |
 |---------|------|------|
 | UQpy | Uncertainty Quantification Python | [GitHub](https://github.com/SURGroup/UQpy) |
 | OpenTURNS | Uncertainty treatment library | [GitHub](https://github.com/openturns/openturns) |
 
 ---
 
-*最后更新: 2025-03*
+*Last Updated: March 2025*

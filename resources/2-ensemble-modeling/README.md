@@ -1,41 +1,41 @@
-# 方向 2: 集成建模
+# Direction 2: Ensemble Modeling
 
 **Ensemble Modeling**
 
 ---
 
-## 📖 概述
+## 📖 Overview
 
-集成建模整合多种建模方法，构建统一的预测框架，是连接数据处理与可靠性分析的核心环节。集成学习方法通过组合多个模型来提高预测精度和不确定性估计的可靠性。
+Ensemble modeling integrates multiple modeling approaches to construct unified prediction frameworks, serving as the core component connecting data processing and reliability analysis. Ensemble learning methods improve prediction accuracy and reliability of uncertainty estimation by combining multiple models.
 
-## 📂 子方向
+## 📂 Sub-directions
 
-### 2.1 基础建模方法
-回归模型、分类模型、传统统计建模方法
+### 2.1 Basic Modeling Methods
+Regression models, classification models, traditional statistical modeling methods
 
-### 2.2 模型集成方法
-集成学习、模型融合、多模型协同
+### 2.2 Model Ensemble Methods
+Ensemble learning, model fusion, multi-model collaboration
 
-### 2.3 基础模型库
-预训练模型、模型库、模型标准化
+### 2.3 Foundation Model Library
+Pre-trained models, model libraries, model standardization
 
-### 2.4 时序预测方法
-时间序列分析、序列建模、动态系统预测
+### 2.4 Time Series Prediction Methods
+Time series analysis, sequence modeling, dynamic system prediction
 
-### 2.5 基于深度学习的物理场建模方法
-物理信息神经网络、深度学习代理模型、混合建模
+### 2.5 Deep Learning-Based Physics Field Modeling Methods
+Physics-informed neural networks, deep learning surrogate models, hybrid modeling
 
 ---
 
-## 📚 相关论文
+## 📚 Related Papers
 
-### 基础建模
+### Basic Modeling
 
 | Title | Authors | Year | Venue | Link |
 |-------|---------|------|-------|------|
 | Gaussian Process for UQ | Rasmussen & Williams | 2006 | Book | [PDF](http://www.gaussianprocess.org/gpml/) |
 
-### 模型集成
+### Model Ensemble
 
 | Title | Authors | Year | Venue | Link |
 |-------|---------|------|-------|------|
@@ -63,13 +63,13 @@
 | Optimal model combination for uncertainty quantification in engineering systems | Yang, Z., Li, H. & Zhang, W. | 2025 | CMAME | [DOI](https://doi.org/10.1016/j.cma.2025.117567) | - |
 | Combining Models in Bayesian Model Averaging | Fragoso, T. M., Bertoli, W. & Louzada, F. | 2018 | Statistical Science | [DOI](https://doi.org/10.1214/18-STS668) | - |
 
-### 时序预测
+### Time Series Prediction
 
 | Title | Authors | Year | Venue | Link |
 |-------|---------|------|-------|------|
 | Time series prediction with DL | Lim & Zohren | 2021 | Phil. Trans. | [DOI](https://doi.org/10.1098/rsta.2020.0209) |
 
-### 物理场建模
+### Physics Field Modeling
 
 | Title | Authors | Year | Venue | Link |
 |-------|---------|------|-------|------|
@@ -79,9 +79,9 @@
 
 ---
 
-## 🛠️ 相关工具
+## 🛠️ Related Tools
 
-### 机器学习框架
+### Machine Learning Frameworks
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
@@ -89,7 +89,7 @@
 | PyTorch | Python | Deep learning framework | [GitHub](https://github.com/pytorch/pytorch) |
 | TensorFlow | Python | Deep learning framework | [GitHub](https://github.com/tensorflow/tensorflow) |
 
-### 代理模型
+### Surrogate Models
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
@@ -97,23 +97,23 @@
 | DeepXDE | Python | Deep learning for differential equations | [GitHub](https://github.com/lululxvi/deepxde) |
 | Deep-aPCE | Python | Adaptive PCE with neural network | [GitHub](https://github.com/Xiaohu-Zheng/Deep-aPCE) |
 
-### 时序预测
+### Time Series Prediction
 
 | Tool | Language | Description | Link |
 |------|----------|-------------|------|
 | statsmodels | Python | Statistical modeling | [GitHub](https://github.com/statsmodels/statsmodels) |
 | prophet | Python | Time series forecasting | [GitHub](https://github.com/facebook/prophet) |
 
-### 相关开源代码
+### Open-Source Code
 
-| 项目名称 | 描述 | 链接 |
+| Project Name | Description | Link |
 |---------|------|------|
 | Scikit-learn | Ensemble methods | [GitHub](https://github.com/scikit-learn/scikit-learn) |
 | PyTorch Ensemble | Deep ensemble utilities | [GitHub](https://github.com/pytorch/pytorch) |
 
 ---
 
-## 📊 相关数据集
+## 📊 Related Datasets
 
 | Dataset | Description | Link |
 |---------|-------------|------|
