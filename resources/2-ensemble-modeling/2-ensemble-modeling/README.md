@@ -1,6 +1,6 @@
 # 方向 2: 集成建模
 
-**Integrated Modeling**
+**Ensemble Modeling**
 
 ---
 
