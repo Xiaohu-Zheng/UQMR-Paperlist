@@ -28,6 +28,8 @@ PCE, sparse PCE, adaptive PCE
 
 ## 📄 Featured Papers (40+)
 
+**2025 Conference Papers Collection:** [2025 Conference Papers on Uncertainty Analysis](./papers/2025-conference-papers.md) - A collection of top computer science conference papers from 2025 focusing on uncertainty analysis.
+
 ### 3.1 Uncertainty Calibration
 
 | Title | Authors | Year | Venue | Link |
