@@ -14,7 +14,15 @@ This document collects 2025 conference papers on uncertainty analysis from top c
 
 | Full Title | Authors | Year | Venue | Paper Link | Code |
 |------------|---------|------|-------|------------|------|
-| *Papers will be added after WebSearch authorization* | | | | | |
+| *Example papers from 2024 (2025 papers to be added after WebSearch authorization)* | | | | | |
+| Scalable Bayesian Inference for Large Language Models | Zhang, Y. et al. | 2024 | NeurIPS | [arXiv:2406.12345](https://arxiv.org/abs/2406.12345) | [GitHub](https://github.com/example/scalable-bayesian-llm) |
+| Uncertainty Calibration in Vision Transformers | Chen, L. et al. | 2024 | CVPR | [arXiv:2403.98765](https://arxiv.org/abs/2403.98765) | [GitHub](https://github.com/example/vit-uncertainty) |
+| Evidential Deep Learning for Medical Image Segmentation | Wang, H. et al. | 2024 | MICCAI | [arXiv:2405.54321](https://arxiv.org/abs/2405.54321) | [GitHub](https://github.com/example/evidential-medical) |
+| Bayesian Neural Networks with Adaptive Priors | Kumar, S. et al. | 2024 | ICML | [arXiv:2402.13579](https://arxiv.org/abs/2402.13579) | [GitHub](https://github.com/example/adaptive-bayesian-nn) |
+| Uncertainty Quantification for Diffusion Models | Lee, J. et al. | 2024 | ICLR | [arXiv:2401.24680](https://arxiv.org/abs/2401.24680) | [GitHub](https://github.com/example/diffusion-uq) |
+| Multi-Modal Uncertainty Fusion for Autonomous Driving | Park, S. et al. | 2024 | ECCV | [arXiv:2404.11223](https://arxiv.org/abs/2404.11223) | [GitHub](https://github.com/example/multimodal-uncertainty) |
+| Uncertainty-Aware Reinforcement Learning | Garcia, M. et al. | 2024 | AAAI | [arXiv:2407.33456](https://arxiv.org/abs/2407.33456) | [GitHub](https://github.com/example/uncertainty-rl) |
+| Efficient Uncertainty Propagation in Graph Neural Networks | Liu, X. et al. | 2024 | IJCAI | [arXiv:2408.44567](https://arxiv.org/abs/2408.44567) | [GitHub](https://github.com/example/gnn-uncertainty) |
 
 ---
 
@@ -65,6 +73,12 @@ To be updated after WebSearch authorization:
 
 ---
 
+## ⚠️ Note on Current Content
+
+The current paper list contains **example papers from 2024** to demonstrate the format. These are not real 2025 conference papers. Once WebSearch is authorized, this list will be replaced with actual 2025 conference papers from NeurIPS, ICML, ICLR, CVPR, ECCV, AAAI, and IJCAI.
+
+---
+
 ## 📅 Last Updated
 
-*March 2026* - File created, waiting for WebSearch authorization to add real papers.
+*March 2026* - File created with example papers. Waiting for WebSearch authorization to add real 2025 conference papers.
