@@ -115,6 +115,12 @@ PCE, sparse PCE, adaptive PCE
 
 ---
 
+## 📅 2025 Conference Papers Collection
+
+A dedicated collection of 2025 conference papers on uncertainty analysis from top computer science conferences:
+
+- **[2025 Conference Papers](papers/2025-conference-papers.md)** - Papers from NeurIPS, ICML, ICLR, CVPR, ECCV, AAAI, IJCAI 2025
+
 ## 🔗 Related Resources
 
 - [Books & Tutorials](../../shared/books-tutorials.md)
